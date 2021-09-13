@@ -12,14 +12,14 @@
  * regarding print settings and part strength
  * https://www.youtube.com/watch?v=upELI0HmzHc
  *
- * Daniel Winker, September 11, 2021
+ * Daniel Winker, September 13, 2021
  */
  
 // __________Settings__________
 // I'm assuming millimeters for all dimensions
 circularCutout = true;
 cutoutHeight = 2.5;
-cutoutRadius = 12.5;
+cutoutRadius = 13.0;
 
 riserHeight = 50.0;
 
